@@ -1,0 +1,28 @@
+/* Creating an external style sheet */
+
+body {
+  font-family: Verdana, Helvetica, Arial;
+  text-align: center;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+ul {
+  max-width: 750px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+li {
+  margin: 16px;
+}
+
